@@ -1,2 +1,5 @@
 # GIT-CHEAT-SHEET
-I will have all commands used in git and github
+
+CHECK in terminal if there is a GIT installed
+
+# git --version
